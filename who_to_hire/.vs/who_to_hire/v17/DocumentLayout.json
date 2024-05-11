@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tauru\\source\\repos\\Who-to-hire\\who_to_hire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{967C7EC5-58F1-478F-91ED-000C9F5C93F5}|who_to_hire.vcxproj|C:\\Users\\tauru\\source\\repos\\Who-to-hire\\who_to_hire\\who_to_hire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{967C7EC5-58F1-478F-91ED-000C9F5C93F5}|who_to_hire.vcxproj|solutionrelative:who_to_hire.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "who_to_hire.cpp",
+              "DocumentMoniker": "C:\\Users\\tauru\\source\\repos\\Who-to-hire\\who_to_hire\\who_to_hire.cpp",
+              "RelativeDocumentMoniker": "who_to_hire.cpp",
+              "ToolTip": "C:\\Users\\tauru\\source\\repos\\Who-to-hire\\who_to_hire\\who_to_hire.cpp",
+              "RelativeToolTip": "who_to_hire.cpp",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T20:57:37.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

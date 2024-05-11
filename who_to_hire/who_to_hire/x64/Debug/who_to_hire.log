@@ -1,0 +1,3 @@
+﻿  who_to_hire.cpp
+C:\Users\tauru\source\repos\Who-to-hire\who_to_hire\who_to_hire.cpp(11,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  who_to_hire.vcxproj -> C:\Users\tauru\source\repos\Who-to-hire\who_to_hire\x64\Debug\who_to_hire.exe
